@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <project name="xdevs23/device_xiaomi_land" path="device/xiaomi/land" remote="github" revision="XOS-8.1" />
+  <project name="xdevs23/android_kernel_xiaomi_msm8937" path="kernel/xiaomi/msm8937" remote="github" revision="oreo" />
+  <project name="xdevs23/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="lineage-15.1-land" />
+  <project name="halogenOS/android_external_ant-wireless_ant_native" path="external/ant-wireless/ant_native" remote="github" revision="XOS-8.1" />
+  <project name="halogenOS/android_external_ant-wireless_ant_service" path="external/ant-wireless/ant_service" remote="github" revision="XOS-8.1" />
+  <project name="halogenOS/android_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="github" revision="XOS-8.1" />
+</manifest>
